@@ -1,1 +1,3 @@
 "Hello!"
+"Difference"
+"New Diff"
